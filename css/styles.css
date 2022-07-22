@@ -1,0 +1,33 @@
+/**************************ELEMENT SELECTOR*******************************/
+
+body { 
+  background-color : #66BFBF;
+}
+
+img {
+height : 150px
+}
+
+hr {
+border-style : none;
+border-top-style : dotted;
+border-color : white;
+border-width : 4px;
+width : 10%;
+}
+
+
+/**************************CLASS SELECTOR*******************************/
+
+.topics {
+  color : red;
+}
+
+
+
+
+/**************************ID SELECTOR*******************************/
+
+#name {
+  color : blue;
+}
